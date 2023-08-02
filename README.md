@@ -1,2 +1,2 @@
-# Playlist maker app
+# Playlist maker React app
 using Spotify API
